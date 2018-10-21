@@ -1,5 +1,5 @@
 _repo: Second-Shetland-Truck-System-Report_3611
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ subjects:
 - !lcc 'HD'
 - !lcsh 'Labor law -- Truck system -- History -- England'
 - !lcsh 'Shetland (Scotland) -- History'
+- GITenberg
 title: Second Shetland Truck System Report
 url: http://www.gutenberg.org/ebooks/3611
